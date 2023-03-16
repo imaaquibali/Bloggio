@@ -1,0 +1,1 @@
+Bloggio is an online publishing platform which allow publisher to publish their content.
